@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="59" started-at="2019-05-03T08:10:27Z" finished-at="2019-05-03T08:10:27Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="59" started-at="2019-05-03T08:10:27Z" finished-at="2019-05-03T08:10:27Z">
+      <class name="selenium.First">
+        <test-method status="PASS" signature="one()[pri:0, instance:selenium.First@36d64342]" name="one" duration-ms="0" started-at="2019-05-03T13:40:27Z" finished-at="2019-05-03T13:40:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- one -->
+        <test-method status="PASS" signature="three()[pri:0, instance:selenium.First@36d64342]" name="three" duration-ms="0" started-at="2019-05-03T13:40:27Z" finished-at="2019-05-03T13:40:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- three -->
+        <test-method status="PASS" signature="two()[pri:0, instance:selenium.First@36d64342]" name="two" duration-ms="0" started-at="2019-05-03T13:40:27Z" finished-at="2019-05-03T13:40:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- two -->
+      </class> <!-- selenium.First -->
+      <class name="selenium.Second">
+        <test-method status="PASS" signature="five()[pri:0, instance:selenium.Second@880ec60]" name="five" duration-ms="7" started-at="2019-05-03T13:40:27Z" finished-at="2019-05-03T13:40:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- five -->
+        <test-method status="PASS" signature="four()[pri:0, instance:selenium.Second@880ec60]" name="four" duration-ms="1" started-at="2019-05-03T13:40:27Z" finished-at="2019-05-03T13:40:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- four -->
+        <test-method status="PASS" signature="six()[pri:0, instance:selenium.Second@880ec60]" name="six" duration-ms="0" started-at="2019-05-03T13:40:27Z" finished-at="2019-05-03T13:40:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- six -->
+      </class> <!-- selenium.Second -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
