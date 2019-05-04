@@ -23,5 +23,23 @@ public class First
 	{
 	System.out.println("three runs well");
 	}
+	@Test
+	public void jenkone()
+	{
+	System.out.println("jenkOne runs well");
+	}
+	
+	@Test
+	public void jenktwo()
+	{
+	System.out.println("jenktwo runs well");
+	}
+	
+	@Test
+	public void jenkthree()
+	{
+	System.out.println("jenkthree runs well");
+	}
+
 
 }
